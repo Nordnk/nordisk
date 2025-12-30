@@ -1,0 +1,15 @@
+{
+  "name": "Nordisk",
+  "symbol": "NDK",
+  "description": "Born from memes. Powered by community. Destined for the moon",
+  "image": "https://raw.githubusercontent.com/Nordnk/nordisk/main/Nordisk.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Nordnk/nordisk/main/Nordisk.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
